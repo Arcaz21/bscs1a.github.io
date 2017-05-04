@@ -1,0 +1,63 @@
+body {
+  background-image: url("rosal.jpg");
+  background-position: center center;
+ 
+  background-attachment: fixed;
+ border-style:solid;
+ border-color: gray;
+}
+
+
+
+img.bg {
+  min-height: 80%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: none;
+  left: none;
+}
+
+ img.bg {
+    left: 50%;
+    margin-left: -512px; 
+  }
+
+h1 {
+  color:red;
+}
+
+a {
+    text-decoration: solid;
+    color:Black;
+}
+
+div.imge {
+    margin: 15px; 
+    padding: 25px;
+    height: 185px;
+    width: 150px;
+    float: left;
+    text-align: center;
+    color:blue;
+}	
+
+div.imge imge {
+    display: inline;
+    margin: 5px;
+    border: 25px solid #ffffff;s
+}
+
+div.imge a:hover imge {
+    border: 25px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+
+

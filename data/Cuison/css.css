@@ -1,0 +1,183 @@
+<html>
+<style>
+<head>
+    ul{
+		
+        padding: 0;
+        list-style: none;
+		background-image: linear-gradient(#444, #111);    
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+	
+
+    ul li{
+		
+        float: left;
+        width: 120px;
+        text-align: left;
+		  display:inline-block;
+	
+  position: relative;
+  margin: 0;
+  padding: 0;
+  
+	}
+ .pic1{
+	text-align=dcenter;
+	margin: auto;
+	margin-top:43;
+	margin-left: 269px;
+	
+	position:absolute;
+	
+	
+	}
+	
+	.pic2{
+	margin-top:-7;
+	margin-left:-50;
+	
+	
+	
+	}
+	
+		/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+    ul li a{
+		
+        display: block;
+        padding: 10px 12px 8px;
+        color: #C1CDCD;/*azure*/
+        background: #104E8B; /*steel blue*/
+		font-style: bold;
+        text-decoration: none;
+		margin-left:-100;
+		font-size:18;
+		font-family:Helvetica, sans-serif;
+		
+    }
+	ul ul li:first-child a:after {
+    content: '';
+    position: absolute;
+    left: -90px;
+    top: -9px;
+    width: 0;
+    height: 0;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-bottom: 10px solid #eee;/*arrow dark blue*/
+	}
+
+	ul ul li a:hover:after {
+    border-bottom-color: #1E90FF; /*arrow light blue*/
+	
+	}
+
+	ul ul li a:hover:after {
+    border-bottom-color: #1E90FF; /*arrow light blue*/
+	
+	}
+	ul li :hover:after>ax{
+	border-bottom-color:red;
+	
+	}
+    ul li a:hover{
+        color: #FFFFFF;
+		
+	}
+	ul ul li a:hover{
+	background:#1E90FF;/*light blue*/
+	color:yellow;
+	
+	}
+	ul ul li a{
+	background:red;
+	color:black;
+	
+	}
+	
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
+li:hover > a{
+color: yellow;
+
+}
+
+	
+    ul li ul{
+        display: none;
+		
+    }
+	ul li li a{background:#eee;}
+
+    ul li:hover ul{
+
+       display: block; /* display the dropdown */
+	   position:absolute;
+	   
+    }
+	footer{
+		
+		position:absolute;
+		color: White ;
+		background: black;	
+		padding:5;
+		margin-left:93;
+		top: 520px;
+		text-align:center;
+		margin-top:110;
+		
+		
+	}
+	div{
+	text-align:center;
+	font-size:7px;
+	margin-right:1337px;
+	margin-left:63; 
+	margin-top:230;
+	/*picture na coc*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+	}
+	
+	#master {
+	margin: 0 auto;
+	margin-top: -40px;
+	margin-left:180px;
+	margin-left:264;
+	width: 787px;
+	color: black;
+	position:absolute;
+	background:#104E8B;
+}
+#frame{
+	margin-left:27;
+	margin-top:-447;
+	position: behind;
+   
+
+}
+	#hi{
+	float: left;
+        width: 70px;
+        text-align: left;
+		  display:inline-block;
+		  
+		  }
+	
+	#gif{
+	position:behind;
+	margin-left:-1100;
+	margin-top:-360;
+	
+	
+	}
+	
+
+	#mypic{
+	position:absolute;
+	margin-left:50;
+	margin-top:20;
+	}
+</style>
+
+</head>
+</html>

@@ -1,0 +1,46 @@
+<html>
+<title>Justin Paul Ong</title>
+<header><link rel="stylesheet" href="style.css"></link></header>
+<body bgcolor="#E6E6DC" link="#fff" vlink="black" alink="#FF0000">
+<div id="logo">
+
+</div>
+
+
+
+
+<div id = "banner"></div>
+<div id="select" >
+<ul><li><a href="jP.html" target="input">Home</a></li>
+  <li>Web Makwer
+  <ul>
+      <li>All time low</li>
+      <li>Greenday</li>
+      
+    </ul></li>
+  <li>
+    Favorite Bands
+    <ul>
+      <li><a href="jP.html" target="input">Justin</a></li>
+      <li>Paul</li>
+      <li>Ong</li>
+    </ul>
+  </li>
+  <li>Blog</li>
+  <li>Contact
+  <ul>
+      <li><a href="https://www.facebook.com" target="input">Facebook</li></a>
+      <li>Twitter</li>
+      <li>LinkedIn</li>
+    </ul>
+    </li>
+</ul>
+
+</div>
+<div class="content">
+<iframe name="input" src="jP.html" width="100%" height="1000px">
+</div>
+
+
+</body>
+</html>

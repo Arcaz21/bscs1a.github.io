@@ -1,0 +1,193 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background: violet;
+	font-family: Helvetica, sans-serif;
+	font-size: 62.5%;
+	color: black;
+}
+
+h1, h2, p, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-size: 1.4em;
+	line-height: 1.4em;
+}
+
+ul {
+	list-style-type: none;
+}
+a:hover{
+	background-color:black;
+	padding:10px;
+	color:black;
+}
+a:active{
+	background-color:red;
+}
+
+
+
+
+span.font {
+	font-family: Baskerville;
+	font-weight: normal;
+	font-style: italic;
+}
+
+
+#masthead {
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-left:280px;
+	width: 800px;
+	color: yellow;
+}
+
+ul
+{
+    font-family: Arial, Verdana;
+    font-size: 14px;
+    padding: 0;
+    list-style: none;
+}
+
+ul li
+{
+    display: block;
+    position: relative;
+    float: left;
+}
+
+li ul
+{
+    display: none;
+}
+
+ul li a 
+{
+    display: block;
+    text-decoration: none;
+    color: Black;
+    border-top: 2px solid black ;
+    padding: 10px 20px 10px 20px;
+    background: Magenta;
+    margin-left: 1px;
+    white-space: nowrap;
+}
+
+ul li a:hover 
+{
+    background: yellow;
+}
+li:hover ul 
+{
+    display: block;
+    position: absolute;
+}
+
+li:hover li
+{
+    float: none;
+    font-size: 11px;
+}
+
+li:hover a 
+{
+    background: yellow;
+}
+
+li:hover li a:hover 
+{
+    background: orange;
+}
+
+
+#wrap {
+	
+	margin: 0 auto;
+	padding: 100px;
+	width: 780px;
+	background: black;
+	border: 20px solid gray;
+	margin-top:20px;
+	border-top-right-radius:50px;
+	border-top-left-radius:50px;
+	border-bottom-right-radius:50px;
+	border-bottom-left-radius:50px;
+}
+#logo {
+	margin-top: 15px;
+	margin-left:325px;
+} 
+#header h1 {
+	font-size: 2em;
+	margin: 10px 0 0 0;
+	padding: 10px;
+	text-align: center;
+	background-color:magenta;
+	
+}
+#header img{
+	margin-left:10px;
+}
+
+#content,#sidebar {
+	align:left;
+	width: 360px;
+	margin: 0px 0 20px 0;
+	padding: 10px;
+	
+}
+
+#content {
+	color:black;
+	margin-top:20px;
+	background: green;
+	text-align:justify;
+	align:left;
+}
+
+#content p{
+	align:left;
+	text-indent:40px}
+
+#content h2 {
+	text-align:left;
+	font-size: 2.3em;
+	background:green;
+	padding:10px;
+}
+
+#sidebar {
+	margin-top:20px;
+	float: left;
+	background: green;
+	
+}
+
+#sidebar h2 {
+	font-weight: bold;
+	border-bottom: 1px solid green;
+	margin: 0 0 20px 0;
+	padding: 5px;
+}
+
+#sidebar ul{
+	margin: 0 10px 20px 0;
+	float: left;
+	border: 5px solid green;
+	text-decoration: none;
+	padding:10px;
+}
+#footer{
+	
+	margin-top:60%;
+	margin-bottom:10px;
+}
+
+

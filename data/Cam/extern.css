@@ -1,0 +1,159 @@
+h1{
+	color: white;
+	font-family: Aharoni;
+	margin-left: 10px;
+	font-size: 60px;
+}
+
+body{
+
+margin-top: 20px;
+margin-bottom: 5px;
+margin-left: 170px;
+margin-right: 170px;
+background-image: url("paint.jpg");
+background-color: red;
+
+}
+
+#logo{
+
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+margin-top: 10px;
+margin-left: 10px;
+position: absolute;
+background-image: url("myself.jpg");
+height: 180px;
+width: 180px;
+
+}
+
+#banner{
+opacity: 0.9;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+margin-left: 250px;
+background-image: url("summer.jpg");
+position: relative;
+height: 200px;
+width: 72%;
+
+}
+
+#links{
+opacity: 0.85;
+margin-top: 20px;
+position: absolute;
+height: 50px;
+}
+#footer{
+font-family: Aharoni;
+text-align: center;
+color: white;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+background-image: url("wood.jpg");
+position: relative;
+height: 17px;
+width: 97%;
+margin-top: 5px;
+
+}
+
+#inner_link{
+margin-top: 50px;
+margin-left: 30%;
+margin-right: 30%;	
+background-color: white;
+border: none;
+position: absolute;
+height: 50px;
+
+}
+
+#the_body{
+opacity:0.95;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+margin-top: 20px;
+margin-left: 250px;
+margin-left: 250px;
+position: relative;
+
+border-style: none;
+width: 72%;
+height: 450px;
+
+}
+
+ul {
+	
+	font-family: Aharoni;
+	text-align: center;
+    padding: 0;
+    margin: 0;
+	height:100%;
+	list-style:none;
+}
+
+.title{
+text-decoration: none;
+}
+ul li{
+background-color: pink;
+width: 200px;
+}
+
+
+
+li {
+	
+    display: inline;
+    position: relative;
+	float:left;
+	
+}
+li a
+ {
+		color:black;
+		display:block;
+		font-weight:normal;
+		line-height:50px;
+		margin:0px;
+		padding:0px 25px;
+		text-decoration:none;
+ }
+li a:hover{
+		background:black;
+		color:red;
+		
+ }
+ 
+ li ul{
+		display:none;
+		height:auto;
+		padding:0px;
+		margin:0px;
+		border:0px;
+		position:absolute;
+		width:200px;
+		z-index:200;
+		
+}
+ul ul {
+	
+    position: absolute;
+    display: none;
+}
+li:hover ul {
+    display: block;
+}

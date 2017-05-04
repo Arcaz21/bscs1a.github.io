@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="2"
+	thumbColumns="8"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	backgroundTransparent="false"
+
+>
+  <image imageURL="images/DSC_9141.jpg"
+	thumbURL="thumbs/DSC_9141.jpg"
+	linkURL="images/DSC_9141.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/G0054735.jpg"
+	thumbURL="thumbs/G0054735.jpg"
+	linkURL="images/G0054735.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/G0064747.jpg"
+	thumbURL="thumbs/G0064747.jpg"
+	linkURL="images/G0064747.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/G0064749.jpg"
+	thumbURL="thumbs/G0064749.jpg"
+	linkURL="images/G0064749.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/G0064752.jpg"
+	thumbURL="thumbs/G0064752.jpg"
+	linkURL="images/G0064752.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/G0074758.jpg"
+	thumbURL="thumbs/G0074758.jpg"
+	linkURL="images/G0074758.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/G0284857.jpg"
+	thumbURL="thumbs/G0284857.jpg"
+	linkURL="images/G0284857.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_MG_3976.JPG"
+	thumbURL="thumbs/_MG_3976.JPG"
+	linkURL="images/_MG_3976.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_MG_3977.JPG"
+	thumbURL="thumbs/_MG_3977.JPG"
+	linkURL="images/_MG_3977.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10806446_890364707649220_5261252283046379622_n.jpg"
+	thumbURL="thumbs/10806446_890364707649220_5261252283046379622_n.jpg"
+	linkURL="images/10806446_890364707649220_5261252283046379622_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10518323_969070463119546_2262494484384684613_o.jpg"
+	thumbURL="thumbs/10518323_969070463119546_2262494484384684613_o.jpg"
+	linkURL="images/10518323_969070463119546_2262494484384684613_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1795318_870576939627997_7646810892894295984_o.jpg"
+	thumbURL="thumbs/1795318_870576939627997_7646810892894295984_o.jpg"
+	linkURL="images/1795318_870576939627997_7646810892894295984_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1956870_878129835539374_1283542167079819786_o.jpg"
+	thumbURL="thumbs/1956870_878129835539374_1283542167079819786_o.jpg"
+	linkURL="images/1956870_878129835539374_1283542167079819786_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1960788_844901825550552_8815769636687394902_o.jpg"
+	thumbURL="thumbs/1960788_844901825550552_8815769636687394902_o.jpg"
+	linkURL="images/1960788_844901825550552_8815769636687394902_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10371328_878130242206000_2599101848393734185_o.jpg"
+	thumbURL="thumbs/10371328_878130242206000_2599101848393734185_o.jpg"
+	linkURL="images/10371328_878130242206000_2599101848393734185_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10428111_870576889628002_8507457450556330552_o.jpg"
+	thumbURL="thumbs/10428111_870576889628002_8507457450556330552_o.jpg"
+	linkURL="images/10428111_870576889628002_8507457450556330552_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10457675_844910992216302_180462396671038216_o.jpg"
+	thumbURL="thumbs/10457675_844910992216302_180462396671038216_o.jpg"
+	linkURL="images/10457675_844910992216302_180462396671038216_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10459008_844912212216180_7303539831042467593_o.jpg"
+	thumbURL="thumbs/10459008_844912212216180_7303539831042467593_o.jpg"
+	linkURL="images/10459008_844912212216180_7303539831042467593_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10479683_878129145539443_672998118287291535_o.jpg"
+	thumbURL="thumbs/10479683_878129145539443_672998118287291535_o.jpg"
+	linkURL="images/10479683_878129145539443_672998118287291535_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10506553_844910802216321_4319514265585936871_o.jpg"
+	thumbURL="thumbs/10506553_844910802216321_4319514265585936871_o.jpg"
+	linkURL="images/10506553_844910802216321_4319514265585936871_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10507122_844903778883690_353170906693896700_o.jpg"
+	thumbURL="thumbs/10507122_844903778883690_353170906693896700_o.jpg"
+	linkURL="images/10507122_844903778883690_353170906693896700_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10519448_844910645549670_7963299654687010666_o.jpg"
+	thumbURL="thumbs/10519448_844910645549670_7963299654687010666_o.jpg"
+	linkURL="images/10519448_844910645549670_7963299654687010666_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10547958_844902115550523_5105922287773048402_o.jpg"
+	thumbURL="thumbs/10547958_844902115550523_5105922287773048402_o.jpg"
+	linkURL="images/10547958_844902115550523_5105922287773048402_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10604412_870577162961308_3135184498115433096_o.jpg"
+	thumbURL="thumbs/10604412_870577162961308_3135184498115433096_o.jpg"
+	linkURL="images/10604412_870577162961308_3135184498115433096_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10608701_870577232961301_6579764898676708845_o.jpg"
+	thumbURL="thumbs/10608701_870577232961301_6579764898676708845_o.jpg"
+	linkURL="images/10608701_870577232961301_6579764898676708845_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10628900_878129942206030_1927840449743373020_o.jpg"
+	thumbURL="thumbs/10628900_878129942206030_1927840449743373020_o.jpg"
+	linkURL="images/10628900_878129942206030_1927840449743373020_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10631061_870577692961255_3309360899108469292_o.jpg"
+	thumbURL="thumbs/10631061_870577692961255_3309360899108469292_o.jpg"
+	linkURL="images/10631061_870577692961255_3309360899108469292_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10631189_870577572961267_5306510957562524202_o.jpg"
+	thumbURL="thumbs/10631189_870577572961267_5306510957562524202_o.jpg"
+	linkURL="images/10631189_870577572961267_5306510957562524202_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10636519_870578456294512_7238060694239427861_o.jpg"
+	thumbURL="thumbs/10636519_870578456294512_7238060694239427861_o.jpg"
+	linkURL="images/10636519_870578456294512_7238060694239427861_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10649010_844904042216997_6709962772057914156_o.jpg"
+	thumbURL="thumbs/10649010_844904042216997_6709962772057914156_o.jpg"
+	linkURL="images/10649010_844904042216997_6709962772057914156_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10679597_878128968872794_2344664237825779119_o.jpg"
+	thumbURL="thumbs/10679597_878128968872794_2344664237825779119_o.jpg"
+	linkURL="images/10679597_878128968872794_2344664237825779119_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10679632_878130545539303_7541658055218076882_o.jpg"
+	thumbURL="thumbs/10679632_878130545539303_7541658055218076882_o.jpg"
+	linkURL="images/10679632_878130545539303_7541658055218076882_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10682222_844913228882745_9221119920786423983_o.jpg"
+	thumbURL="thumbs/10682222_844913228882745_9221119920786423983_o.jpg"
+	linkURL="images/10682222_844913228882745_9221119920786423983_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10694230_844903548883713_3937013280417299101_o.jpg"
+	thumbURL="thumbs/10694230_844903548883713_3937013280417299101_o.jpg"
+	linkURL="images/10694230_844903548883713_3937013280417299101_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10694230_844906695550065_3223442635211301839_o.jpg"
+	thumbURL="thumbs/10694230_844906695550065_3223442635211301839_o.jpg"
+	linkURL="images/10694230_844906695550065_3223442635211301839_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10703848_870577559627935_8845326155652937950_o.jpg"
+	thumbURL="thumbs/10703848_870577559627935_8845326155652937950_o.jpg"
+	linkURL="images/10703848_870577559627935_8845326155652937950_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10708748_844911532216248_8334834517584035295_o.jpg"
+	thumbURL="thumbs/10708748_844911532216248_8334834517584035295_o.jpg"
+	linkURL="images/10708748_844911532216248_8334834517584035295_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10708785_878130875539270_4412783120606251228_o.jpg"
+	thumbURL="thumbs/10708785_878130875539270_4412783120606251228_o.jpg"
+	linkURL="images/10708785_878130875539270_4412783120606251228_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10712428_844905635550171_2435938836725702119_o.jpg"
+	thumbURL="thumbs/10712428_844905635550171_2435938836725702119_o.jpg"
+	linkURL="images/10712428_844905635550171_2435938836725702119_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10714235_844905712216830_7975475242173667397_o.jpg"
+	thumbURL="thumbs/10714235_844905712216830_7975475242173667397_o.jpg"
+	linkURL="images/10714235_844905712216830_7975475242173667397_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10733721_878130015539356_6157080311769738378_o.jpg"
+	thumbURL="thumbs/10733721_878130015539356_6157080311769738378_o.jpg"
+	linkURL="images/10733721_878130015539356_6157080311769738378_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10733867_844904498883618_688451538448783093_o.jpg"
+	thumbURL="thumbs/10733867_844904498883618_688451538448783093_o.jpg"
+	linkURL="images/10733867_844904498883618_688451538448783093_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1090901_871241802894844_8246060937014465958_o.jpg"
+	thumbURL="thumbs/1090901_871241802894844_8246060937014465958_o.jpg"
+	linkURL="images/1090901_871241802894844_8246060937014465958_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1090927_870578432961181_9125315275290091076_o.jpg"
+	thumbURL="thumbs/1090927_870578432961181_9125315275290091076_o.jpg"
+	linkURL="images/1090927_870578432961181_9125315275290091076_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1277382_870577902961234_3253164520699126676_o.jpg"
+	thumbURL="thumbs/1277382_870577902961234_3253164520699126676_o.jpg"
+	linkURL="images/1277382_870577902961234_3253164520699126676_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1534779_844903458883722_3729967720921475995_o.jpg"
+	thumbURL="thumbs/1534779_844903458883722_3729967720921475995_o.jpg"
+	linkURL="images/1534779_844903458883722_3729967720921475995_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1614445_878131765539181_335587609586758732_o.jpg"
+	thumbURL="thumbs/1614445_878131765539181_335587609586758732_o.jpg"
+	linkURL="images/1614445_878131765539181_335587609586758732_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1658197_844913308882737_8604577471321694993_o.jpg"
+	thumbURL="thumbs/1658197_844913308882737_8604577471321694993_o.jpg"
+	linkURL="images/1658197_844913308882737_8604577471321694993_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1795269_870577186294639_682224789547526398_o.jpg"
+	thumbURL="thumbs/1795269_870577186294639_682224789547526398_o.jpg"
+	linkURL="images/1795269_870577186294639_682224789547526398_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

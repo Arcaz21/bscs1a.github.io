@@ -1,0 +1,59 @@
+div{
+	
+	margin-top: 50px;
+	
+	margin-bottom:10px;
+}
+
+div ul {			padding: 0px;
+				list-style: none;
+				-webkit-font-smoothing:antialiased;
+
+				
+				
+				
+	}
+	 div ul li{
+				display: inline-block;
+				width: 200px;
+				position:relative;
+				text-align: center;
+				transition: all .5s ease;
+				
+				
+	}
+	div ul li a{
+				display: block;
+				padding: 5px 10px;
+				color: red;
+				background: white;
+				white-space:nowrap;
+				text-decoration: none;
+				transition: all .5s ease;
+				background: #e5e5e5;
+	}
+
+	div ul li ul{
+				display: none;
+				position: relative;
+	}
+	 
+	div ul li:hover ul{
+			
+				position: absolute;
+				
+	}
+
+	div ul li a:hover {
+				color: white;
+				background: #e5e5e5;
+				
+	}
+
+
+
+	li:hover a {background: white;}
+			
+li:hover ul {display: block; position: absolute;}
+
+
